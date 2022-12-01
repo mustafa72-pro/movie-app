@@ -1,0 +1,15 @@
+Suncity*From 2 to 5*2
+Suncity*From 5 to 8*4
+Suncity*From 8 to 11*2
+Arabia mall*From 2 to 5*3
+Arabia mall*From 5 to 8*0
+Arabia mall*From 8 to 11*5
+city stars*From 2 to 5*5
+city stars*From 5 to 8*5
+city stars*From 8 to 11*3
+Cinema Hall*From 2 to 5*4
+Cinema Hall*From 5 to 8*3
+Cinema Hall*From 8 to 11*5
+Aswan's home*From 2 to 5*5
+Aswan's home*From 5 to 8*3
+Aswan's home*From 8 to 11*5
